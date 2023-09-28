@@ -1,7 +1,5 @@
 # 在线小游戏合集
 
-__名字都是瞎译的__
-
 -   [兔兔挖](https://zak-amana.itch.io/ld48)
 -   [无尽深潜](https://keepee.itch.io/infinity-dive)
 -   [穹顶守护者](https://bippinbits.itch.io/dome-romantik)
@@ -40,3 +38,5 @@ __名字都是瞎译的__
 -   [方块制作人](https://david-peter.de/cube-composer/)
 -   [你画我猜](https://gartic.io)
 -   [传话游戏](https://garticphone.com)
+
+[^1]: 名字都是瞎译的
