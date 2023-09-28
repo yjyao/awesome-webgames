@@ -39,4 +39,4 @@
 -   [你画我猜](https://gartic.io)
 -   [传话游戏](https://garticphone.com)
 
-[^1]: 名字都是瞎译的
+<sub>名字都是瞎译的</sub>
